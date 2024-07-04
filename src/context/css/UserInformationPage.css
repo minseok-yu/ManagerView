@@ -1,0 +1,23 @@
+.Content{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    border: 1px solid #d3c6b1;
+}
+
+.UserSelectContainer{
+    width: 30%;
+    height: 100%;
+    border: 2px solid  #d3c6b1
+}
+.Info{
+    width:  70%;
+    height: 800px;
+    border: 1px solid  #d3c6b1;
+    display: flex;
+    flex-direction: column;
+    
+}
+.dayinfo{
+    border: 0.5px solid  #d3c6b1;
+}

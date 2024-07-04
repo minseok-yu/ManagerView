@@ -1,0 +1,21 @@
+/* DatePickerComponent.css */
+
+.date-picker-container {
+    display: inline-block;
+    width: 30%; /* 너비를 원하는 크기로 조정 */
+  }
+  
+  .date-picker-input {
+    width: 100%; /* 입력 필드의 너비를 조정 */
+    padding: 8px; /* 입력 필드의 패딩을 조정 */
+    font-size: 9px; /* 입력 필드의 글꼴 크기를 조정 */
+  }
+  
+  .react-datepicker-wrapper {
+    width: 80%; /* 전체 래퍼의 너비를 조정 */
+  }
+  
+  .react-datepicker__input-container input {
+    width: 100%; /* 입력 필드의 너비를 100%로 설정 */
+  }
+  
